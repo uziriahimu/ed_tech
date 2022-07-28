@@ -4,9 +4,10 @@
 
 }
 
-.text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.header-color {
+    color: #4A4A4A;
+}
+
+.p-color {
+    color: #777777;
 }
