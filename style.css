@@ -12,7 +12,9 @@
     color: #777777;
 }
 
-.btn-white {
+.btn-bg-white {
     background-color: white;
 
 }
+
+@media screen and (max-width:480px) {}
