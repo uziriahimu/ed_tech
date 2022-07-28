@@ -4,6 +4,10 @@
 
 }
 
+.i-color {
+    color: gold;
+}
+
 .header-color {
     color: #4A4A4A;
 }
@@ -12,9 +16,17 @@
     color: #777777;
 }
 
+
+
+
+
 .btn-bg-white {
     background-color: white;
 
 }
 
-@media screen and (max-width:480px) {}
+.carousel-caption {
+    bottom: initial;
+    top: 50%;
+    transform: translateY(-50%);
+}
